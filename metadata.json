@@ -1,0 +1,6 @@
+{
+  "name": "VOYA — Campus Interstate Transit",
+  "description": "Smart campus interstate transportation demand and capacity management platform piloting at LAUTECH, Ogbomoso.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
